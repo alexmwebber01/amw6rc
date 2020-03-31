@@ -1,0 +1,9 @@
+{
+   "count":1,
+   "date":"2020-03-30",
+   "result":{
+      "confirmed":782365,
+      "deaths":37582,
+      "recovered":164566
+   }
+}
