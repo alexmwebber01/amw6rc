@@ -1,0 +1,1 @@
+I think I would like to use the Mozilla Public License 2.0 for my open source project. I don't know much about licenses, but I think this license covers a lot of information, and it is easy no navigate, as it is in the form of a numbered list for different categories within the license. 
