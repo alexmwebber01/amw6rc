@@ -1,0 +1,1 @@
+The purpose of my application will be to display information about a user's page views. I would like to have it display the user's top five or ten websites, based on number of times visited (this is subject to change as I play around with it). The audience of my application will simply be anyone looking for information about which websites they visit most. 
