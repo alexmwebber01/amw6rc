@@ -1,5 +1,7 @@
-# google-client-app
+# Final Project App
 Flask, Flask-Login, Login with Google, App setup as Google Client
+
+First download the My-google folder
 
 Installation with Pipenv:
 
