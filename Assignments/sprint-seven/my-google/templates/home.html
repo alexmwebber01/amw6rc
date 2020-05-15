@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+    <body>
+        <h2>Welcome {{ name }}!</h2>
+        {% if no_data %}
+        <p>The search term does not have enough data, try another.</p>
+        {% else %}
+        <img src="{{ url_for('static', filename='Images/figure.png' ) }}" alt="search_figure.png">
+        {% endif %}
+        <h3>Find data for another search term</h3>
+        <form action="/search">
+            Search Term: <input type='text' name='term'>
+            <input type='submit' value='Continue'>
+        </form>
+        <a class="button" href="/logout">Logout</a>
+    </body>
+</html>

@@ -1,0 +1,7 @@
+requests
+Flask
+oauthlib
+pyOpenSSL
+Flask-Login
+pytrends
+matplotlib
